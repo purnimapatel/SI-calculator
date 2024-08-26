@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/purnimapatel/SI-Calculator-using-react/static/css/main.5f22ee9a.css",
+    "main.js": "/purnimapatel/SI-Calculator-using-react/static/js/main.55a91925.js",
+    "static/js/787.9e8c675c.chunk.js": "/purnimapatel/SI-Calculator-using-react/static/js/787.9e8c675c.chunk.js",
+    "index.html": "/purnimapatel/SI-Calculator-using-react/index.html",
+    "main.5f22ee9a.css.map": "/purnimapatel/SI-Calculator-using-react/static/css/main.5f22ee9a.css.map",
+    "main.55a91925.js.map": "/purnimapatel/SI-Calculator-using-react/static/js/main.55a91925.js.map",
+    "787.9e8c675c.chunk.js.map": "/purnimapatel/SI-Calculator-using-react/static/js/787.9e8c675c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f22ee9a.css",
+    "static/js/main.55a91925.js"
+  ]
+}
