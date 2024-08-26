@@ -7,7 +7,6 @@
   justify-content: center;
   align-items:center;
   height:100vh;
-  flex-direction: column;
 
 }
 .container1{
@@ -55,6 +54,7 @@ input[type=number] {
   border:none;
   border-radius: 10px;
   background-color:antiquewhite;
+  width:30%;
 }
 .btn:hover{
   background-color:rgb(205, 214, 174);

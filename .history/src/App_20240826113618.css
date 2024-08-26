@@ -7,7 +7,6 @@
   justify-content: center;
   align-items:center;
   height:100vh;
-  flex-direction: column;
 
 }
 .container1{
@@ -27,10 +26,8 @@
   display: flex;
   text-align: center;
   justify-content: center;
-  margin:0px 12px;
-  padding:10px 0px;
-  background-color:antiquewhite;
-  border-radius:10px;
+  margin:0px 30px;
+  background-color:aqua;
 
 }
 input[type=number]::-webkit-outer-spin-button,
@@ -46,17 +43,5 @@ input[type=number] {
 #field{
   margin:10px;
   padding:10px;
-  border-radius:10px;
-  border:none;
 }
-.btn{
-  margin:0px 12px;
-  padding:10px 25px;
-  border:none;
-  border-radius: 10px;
-  background-color:antiquewhite;
-}
-.btn:hover{
-  background-color:rgb(205, 214, 174);
-  cursor: pointer;
-}
+

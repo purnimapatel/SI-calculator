@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  
+}
+.container{
+  
+  background-color:rgb(197, 174, 144);
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+  height: 100vh;
+
+}
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Remove the spinner in Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+#field{
+  margin:10px;
+  padding:10px;
+}
+
